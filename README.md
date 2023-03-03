@@ -1,2 +1,17 @@
 # Today_i_Fixed_Azure_development
-We will use this repo just for bug fixing - No need to add code files - Just add one Readme file against one bug fix, name it with the context of bug fix and add specific lines of code
+The purpose of this repository is to store the bug fixes in an organized manner which we do on daily basis by investing our precious time and to make it a Time Saver for other developers encountering with the same issues.
+
+Format of the bug fix PR should be like this:
+
+## Problem
+...  1-2 liner problem statment  ...
+
+## Environment
+- IDE Version : ...
+
+## How you fixed it
+...  3-4 lines of description  ...
+
+## Solution
+```code references```
+
